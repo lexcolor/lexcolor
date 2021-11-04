@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development in general
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @LexColor in Telegram
+- 📫 Reach me in Telegram: @LexColor
 
 <!---
 lexcolor/lexcolor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
